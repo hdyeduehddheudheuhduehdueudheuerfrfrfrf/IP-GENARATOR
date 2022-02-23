@@ -1,3 +1,17 @@
+#################################################
+# CODED BY D1MOD       1877 TEAM                #
+# AUTHOR : D1MOD       1877.team                #
+#################################################
+
+# LA QWZE DAKE AWA BM AYDZE
+# LA QWZE DAKE AWA BM AYDZE
+# LA QWZE DAKE AWA BM AYDZE
+# LA QWZE DAKE AWA BM AYDZE
+# LA QWZE DAKE AWA BM AYDZE
+# LA QWZE DAKE AWA BM AYDZE
+# LA QWZE DAKE AWA BM AYDZE
+
+
 Agent="Mozilla/5.0 (X11; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
 GREEN=$(tput setaf 2) #HIJAU
 WHITE=$(tput setaf 7) #PUTIH
